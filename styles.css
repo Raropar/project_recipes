@@ -1,0 +1,15 @@
+body {
+    background-color: #FFFAF1;
+}
+h1 {
+    font-size: 30px;
+}
+h1, h2, h3, a {
+    color: saddlebrown;
+}
+h1, h2, h3 {
+    font-family: Garamond, 'Times New Roman';
+}
+ul, p, a {
+    font-family: Arial;
+}
